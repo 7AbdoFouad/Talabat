@@ -181,7 +181,7 @@ _Add relevant screenshots to illustrate the app’s features._ For example:
 -[Checkout-Payment](https://github.com/user-attachments/assets/d9ce2b6e-dc3d-4c98-9f17-9116152f160b)
 -[Order Confirmation](https://github.com/user-attachments/assets/998b46de-e2e9-4cb1-b705-83c4aaf4f76e)
 -[Payment Transaction Succeeded On Stripe](https://github.com/user-attachments/assets/c2e7596d-0e14-43f2-9f50-637b62de772c)
--[Order View](https://github.com/user-attachments/assets/ccd3cbc6-25b3-4901-a32f-c9c781e36f25)
+-[ Payment Received in "Order View"](https://github.com/user-attachments/assets/84b968d9-c3dc-4bf1-86cd-ef13d1fced13)
 
 
 
