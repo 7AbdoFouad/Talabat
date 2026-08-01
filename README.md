@@ -166,18 +166,13 @@ _Add relevant screenshots to illustrate the app’s features._ For example:
 -[Checkout-Delivery Method]<img width="1917" height="866" alt="5" src="https://github.com/user-attachments/assets/2beb142d-8555-47b8-9d07-64651fa488ef" />
 -[Checkout-Review]<img width="1917" height="865" alt="6" src="https://github.com/user-attachments/assets/4b4f71e9-6ab9-400d-a26b-1087b815baa9" />
 -[Checkout-Payment]<img width="1918" height="868" alt="7" src="https://github.com/user-attachments/assets/4354d162-f15d-4c71-b2e3-cc95dade1d5a" />
-
 -[Order Confirmation]<img width="1918" height="870" alt="9" src="https://github.com/user-attachments/assets/9da7f44e-94f3-42e4-b117-9a4b96091eac" />
-
 -[Payment Transaction Succeeded On Stripe]<img width="1918" height="876" alt="10" src="https://github.com/user-attachments/assets/fda6783d-e367-42f1-9f06-e16e369302ee" />
-
 -[Payment Received in "Current Order View"]<img width="1917" height="858" alt="11" src="https://github.com/user-attachments/assets/b8a85ac6-5f79-4495-aeb2-39446050bd22" />
+-[view past order history]<img width="1915" height="871" alt="14" src="https://github.com/user-attachments/assets/25f4d589-0d54-44fb-83e5-db722bb29069" />
+-[Login]<img width="1916" height="866" alt="12" src="https://github.com/user-attachments/assets/4d46fecc-7c9a-41c6-bee8-eb403d36aad1" />
+-[Register]<img width="1915" height="865" alt="13" src="https://github.com/user-attachments/assets/480c562e-0f99-4974-be61-1db6c1f68266" />
 
--[view past order history]<img width="1916" height="866" alt="12" src="https://github.com/user-attachments/assets/4d46fecc-7c9a-41c6-bee8-eb403d36aad1" />
-
--[Login]<img width="1915" height="865" alt="13" src="https://github.com/user-attachments/assets/480c562e-0f99-4974-be61-1db6c1f68266" />
-
--[Register]<img width="1915" height="871" alt="14" src="https://github.com/user-attachments/assets/25f4d589-0d54-44fb-83e5-db722bb29069" />
 
 
 
