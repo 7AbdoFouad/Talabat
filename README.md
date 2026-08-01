@@ -159,19 +159,26 @@ Talabat/
 
 ## 📸 Screenshots / لقطات شاشة
 _Add relevant screenshots to illustrate the app’s features._ For example:  
--[Home Page](https://github.com/user-attachments/assets/bfeeb312-f1c8-4155-ae78-98742d0a1626)
--[Products](https://github.com/user-attachments/assets/ba1b60a6-dc2c-421f-8cca-9f7d3d199ac2) 
--[Basket](https://github.com/user-attachments/assets/e64995e9-f526-4fe6-95b4-d53931b8830b)
--[Checkout-Address](https://github.com/user-attachments/assets/685d0a69-4c1e-43cb-886b-b811894ccea9)
--[Checkout-Delivery Method](https://github.com/user-attachments/assets/2684f500-e6fd-4f6a-b69f-947b2ff05ac3)
--[Checkout-Review](https://github.com/user-attachments/assets/fb0654fd-be22-4323-93e2-d1dc1b696794)
--[Checkout-Payment](https://github.com/user-attachments/assets/d9ce2b6e-dc3d-4c98-9f17-9116152f160b)
--[Order Confirmation](https://github.com/user-attachments/assets/998b46de-e2e9-4cb1-b705-83c4aaf4f76e)
--[Payment Transaction Succeeded On Stripe](https://github.com/user-attachments/assets/c2e7596d-0e14-43f2-9f50-637b62de772c)
--[Payment Received in "Current Order View"](https://github.com/user-attachments/assets/b6e683b6-e9c5-4454-bc9b-73577f6cff52)
--[view past order history](https://github.com/user-attachments/assets/a2061a77-48fb-49b7-935d-6547ee5be811)
--[Login](https://github.com/user-attachments/assets/c74d4819-9d83-448f-b91f-6d9bd20ea088)
--[Register](https://github.com/user-attachments/assets/d7e8f116-abf0-4641-88e9-c5f1402f0506)
+-[Home Page]<img width="1900" height="862" alt="1" src="https://github.com/user-attachments/assets/7c180b31-1399-4f9d-9c40-b74907ab0394" />
+-[Products] <img width="1917" height="867" alt="2" src="https://github.com/user-attachments/assets/55f6b868-518f-4881-88aa-5e26a87df46e" />
+-[Basket]<img width="1918" height="868" alt="3" src="https://github.com/user-attachments/assets/25787dc6-74ea-4de2-86b3-e57810bfff3a" />
+-[Checkout-Address]<img width="1918" height="870" alt="4" src="https://github.com/user-attachments/assets/f7fce33d-f26e-4bf7-b418-dcb79c47447a" />
+-[Checkout-Delivery Method]<img width="1917" height="866" alt="5" src="https://github.com/user-attachments/assets/2beb142d-8555-47b8-9d07-64651fa488ef" />
+-[Checkout-Review]<img width="1917" height="865" alt="6" src="https://github.com/user-attachments/assets/4b4f71e9-6ab9-400d-a26b-1087b815baa9" />
+-[Checkout-Payment]<img width="1918" height="868" alt="7" src="https://github.com/user-attachments/assets/4354d162-f15d-4c71-b2e3-cc95dade1d5a" />
+
+-[Order Confirmation]<img width="1918" height="870" alt="9" src="https://github.com/user-attachments/assets/9da7f44e-94f3-42e4-b117-9a4b96091eac" />
+
+-[Payment Transaction Succeeded On Stripe]<img width="1918" height="876" alt="10" src="https://github.com/user-attachments/assets/fda6783d-e367-42f1-9f06-e16e369302ee" />
+
+-[Payment Received in "Current Order View"]<img width="1917" height="858" alt="11" src="https://github.com/user-attachments/assets/b8a85ac6-5f79-4495-aeb2-39446050bd22" />
+
+-[view past order history]<img width="1916" height="866" alt="12" src="https://github.com/user-attachments/assets/4d46fecc-7c9a-41c6-bee8-eb403d36aad1" />
+
+-[Login]<img width="1915" height="865" alt="13" src="https://github.com/user-attachments/assets/480c562e-0f99-4974-be61-1db6c1f68266" />
+
+-[Register]<img width="1915" height="871" alt="14" src="https://github.com/user-attachments/assets/25f4d589-0d54-44fb-83e5-db722bb29069" />
+
 
 
 
